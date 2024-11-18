@@ -11,7 +11,7 @@ def imprimir_separador(mensaje=""):
 # Función para cargar los usuarios desde el archivo
 def cargar_usuarios(archivo):
     try:
-        with open(archivo, 'r') as f:
+        with open(archivo, 'r') as file:
             usuarios = json.load(f)
             # Asegúrate de que las claves (DNI) sean enteros
             usuarios = {int(k): v for k, v in usuarios.items()}
