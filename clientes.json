@@ -12,6 +12,68 @@
                     "2024-12-17",
                     "2024-12-18"
                 ]
+            },
+            {
+                "habitacion": "A101",
+                "fecha_entrada": "2024-12-17",
+                "fecha_salida": "2024-12-18",
+                "dias": 1,
+                "fechas_reservadas": [
+                    "2024-12-17",
+                    "2024-12-18"
+                ]
+            }
+        ]
+    },
+    "45570285": {
+        "nombre": "l",
+        "apellido": "l",
+        "reservas": [
+            {
+                "habitacion": "A101",
+                "fecha_entrada": "2024-12-18",
+                "fecha_salida": "2024-12-19",
+                "dias": 1,
+                "fechas_reservadas": [
+                    "2024-12-18",
+                    "2024-12-19"
+                ]
+            },
+            {
+                "habitacion": "A101",
+                "fecha_entrada": "2024-12-16",
+                "fecha_salida": "2024-12-17",
+                "dias": 1,
+                "fechas_reservadas": [
+                    "2024-12-16",
+                    "2024-12-17"
+                ]
+            }
+        ]
+    },
+    "45622304": {
+        "nombre": "l",
+        "apellido": "l",
+        "reservas": [
+            {
+                "habitacion": "B102",
+                "fecha_entrada": "2024-12-01",
+                "fecha_salida": "2024-12-02",
+                "dias": 1,
+                "fechas_reservadas": [
+                    "2024-12-01",
+                    "2024-12-02"
+                ]
+            },
+            {
+                "habitacion": "B102",
+                "fecha_entrada": "2024-12-01",
+                "fecha_salida": "2024-12-02",
+                "dias": 1,
+                "fechas_reservadas": [
+                    "2024-12-01",
+                    "2024-12-02"
+                ]
             }
         ]
     }
